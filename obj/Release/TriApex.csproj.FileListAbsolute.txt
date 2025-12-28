@@ -1,0 +1,16 @@
+C:\TriApex\TriApex\bin\Release\TriApexDB.mdf
+C:\TriApex\TriApex\bin\Release\TriApexDB_log.ldf
+C:\TriApex\TriApex\bin\Release\TriApex.exe.config
+C:\TriApex\TriApex\bin\Release\TriApex.exe
+C:\TriApex\TriApex\bin\Release\TriApex.pdb
+C:\TriApex\TriApex\obj\Release\TriApex.csproj.AssemblyReference.cache
+C:\TriApex\TriApex\obj\Release\TriApex.Properties.Resources.resources
+C:\TriApex\TriApex\obj\Release\TriApex.csproj.GenerateResource.cache
+C:\TriApex\TriApex\obj\Release\TriApex.csproj.CoreCompileInputs.cache
+C:\TriApex\TriApex\obj\Release\TriApex.exe
+C:\TriApex\TriApex\obj\Release\TriApex.pdb
+C:\TriApex\TriApex\bin\Release\TriApex.exe.manifest
+C:\TriApex\TriApex\bin\Release\TriApex.application
+C:\TriApex\TriApex\obj\Release\TriApex.exe.config
+C:\TriApex\TriApex\obj\Release\TriApex.exe.manifest
+C:\TriApex\TriApex\obj\Release\TriApex.application

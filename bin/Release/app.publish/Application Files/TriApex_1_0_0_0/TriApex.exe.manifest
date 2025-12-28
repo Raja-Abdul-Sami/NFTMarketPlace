@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="TriApex.exe" version="1.0.0.0" publicKeyToken="2063e10a9c03baff" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="TriApex" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="TriApex.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TriApex.exe" size="316328">
+      <assemblyIdentity name="TriApex" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>KlFdDRg+1gOOXXC20t+vCA/gTYrddAkvOkXDDw5H8Fc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Assets\NFTImages\Astronaunt-Ape.jpg" size="576684">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>NGJSyOIqT9HiV/y1nOKNLjE5pUikKfZ4wvDVoraNAyk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Assets\NFTImages\Bored-Ape.jpg" size="515654">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>qlK1ttu18VOddg/lOAcKpueGIBRne+hK3L7yzBjgyjs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Assets\NFTImages\Cool-Ape.jpg" size="356124">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>moAFyx9lgKDF1Y7g5WxD1Y4ID/6UQh9nBCR+Rw3LwQY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="TriApex.exe.config" size="703">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>PSarxqVDC3BebC0cqhNU9+dGuIbItskH81vpdZrRuHg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="TriApexDB.mdf" size="8388608" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>0uwbpwolryQUnpIlJL+Uw2qfunhfWnUTqpHnlYFhbx0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="TriApexDB_log.ldf" size="8388608" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>OzXyAv1qo3zn3SXIjVJnr8n1507gcl2oxEbpTzuEUC8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=BEAST\BEAST" issuerKeyHash="78cab60e6ad69411363fe52ea4e3049ecce67d0b" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>qq/lhcaTaL/5GXpfWJjxLGfpxIH06G28hlH3VIblFXc=</DigestValue></Reference></SignedInfo><SignatureValue>UhxUSKXNYwXnJK7Hfsn4tEUWsK6q2h/yqZwMzwARx1RkVTYDNPREHE7PDGqRE/4TT+PBNUsjYWzOGN2oq75K0wdcIwFXJ5ZzINKxA9gxvHD4vrFkK2leIqfp9Q7whkom8QzwNwy2M9eo9/Ms+LQkFrGH7YCB2jj1NqJaXBwL3zs=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>1S+aCo6/8nUOkGkTNmEhMChsTXn80EMGQ9YpL3ky8SC1SSGlfrr3HuOoGWf/aDzZdWM18MQjjWvHnRha/739gPJul1AdSP+9prSTReVjTtEGi2aUBmYvFLvAAgLgHmKxSl55KVZuVdcU6bft7k/CVqcsTsLPlRzCAWr0fW8pFOU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="7715e58654f75186bc6de8f481c4e9672cf198585f7a19f9bf6893c685e5afaa" Description="" Url=""><as:assemblyIdentity name="TriApex.exe" version="1.0.0.0" publicKeyToken="2063e10a9c03baff" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=BEAST\BEAST</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>z2sy9H556K69cM2Wb6fsTCqLWEtgCDirWZQ0logtW04=</DigestValue></Reference></SignedInfo><SignatureValue>bKyyt1ifI7V+rS2xfdnSG6Q0gcEbJ1/IfipRN/mVNwooBTOBWwTc0lwcLv3WHLNcGnzF6ELp1mVSop9xjsk1sLas/uATZZnbugnk8NVqQbbtBNIZNCHJ2a+PQ4UgOg3pmy0aCi5c9F2Lj/9wEIM9dnj36utNBYsfUBIvhFNx8jY=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>1S+aCo6/8nUOkGkTNmEhMChsTXn80EMGQ9YpL3ky8SC1SSGlfrr3HuOoGWf/aDzZdWM18MQjjWvHnRha/739gPJul1AdSP+9prSTReVjTtEGi2aUBmYvFLvAAgLgHmKxSl55KVZuVdcU6bft7k/CVqcsTsLPlRzCAWr0fW8pFOU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBxTCCAS6gAwIBAgIQYi4hdm40pK9GIk7gcj2YlTANBgkqhkiG9w0BAQsFADAhMR8wHQYDVQQDHhYAQgBFAEEAUwBUAFwAQgBFAEEAUwBUMB4XDTI1MTIyODEzMDIzMloXDTI2MTIyODE5MDIzMlowITEfMB0GA1UEAx4WAEIARQBBAFMAVABcAEIARQBBAFMAVDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA1S+aCo6/8nUOkGkTNmEhMChsTXn80EMGQ9YpL3ky8SC1SSGlfrr3HuOoGWf/aDzZdWM18MQjjWvHnRha/739gPJul1AdSP+9prSTReVjTtEGi2aUBmYvFLvAAgLgHmKxSl55KVZuVdcU6bft7k/CVqcsTsLPlRzCAWr0fW8pFOUCAwEAATANBgkqhkiG9w0BAQsFAAOBgQArm94d+GwPhgdQDcNVQAcbnPHHuyJdqNwTjmiEjvaDloQNCTM2ib7R16HlU5yZ7A4n8nI2DoisTxfwTYtXT1WIiEWRmKTeq0vqa+ueJK5kWGFTLfrQxEYdpwEJ+SjL4gqkbm1fyQpaVu5OsCiuygJ6IwHelNjVL3pCIwQ0cu7z6A==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

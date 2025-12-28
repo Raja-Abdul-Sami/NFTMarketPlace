@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriApex", "TriApex.csproj", "{4DB99398-4D18-40F1-9E8C-3FF38F6510F3}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "Setup", "..\Setup\Setup.aiproj", "{2B6C1000-FB9D-47E3-9A8D-34AC602629FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DB99398-4D18-40F1-9E8C-3FF38F6510F3}.All|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB99398-4D18-40F1-9E8C-3FF38F6510F3}.All|Any CPU.Build.0 = Debug|Any CPU
+		{4DB99398-4D18-40F1-9E8C-3FF38F6510F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB99398-4D18-40F1-9E8C-3FF38F6510F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DB99398-4D18-40F1-9E8C-3FF38F6510F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DB99398-4D18-40F1-9E8C-3FF38F6510F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B6C1000-FB9D-47E3-9A8D-34AC602629FD}.All|Any CPU.ActiveCfg = All
+		{2B6C1000-FB9D-47E3-9A8D-34AC602629FD}.All|Any CPU.Build.0 = All
+		{2B6C1000-FB9D-47E3-9A8D-34AC602629FD}.Debug|Any CPU.ActiveCfg = All
+		{2B6C1000-FB9D-47E3-9A8D-34AC602629FD}.Debug|Any CPU.Build.0 = All
+		{2B6C1000-FB9D-47E3-9A8D-34AC602629FD}.Release|Any CPU.ActiveCfg = All
+		{2B6C1000-FB9D-47E3-9A8D-34AC602629FD}.Release|Any CPU.Build.0 = All
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AD52CB2-FAF7-4A01-B9D8-E4BD73497025}
+	EndGlobalSection
+EndGlobal
