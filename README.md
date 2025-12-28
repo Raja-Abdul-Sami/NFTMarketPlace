@@ -131,19 +131,26 @@ git clone https://github.com/yourusername/TriApex.git
 
 ## 📸 Screenshots
 
-<img width="984" height="695" alt="image" src="https://github.com/user-attachments/assets/bda7b104-0dd1-4aa6-b1aa-4fb62b9df9ed" />
+<img width="984" height="695" alt="image" src="https://github.com/user-attachments/assets/78622d91-2c88-41de-91ef-289c6083ee6c" />
 
-<img width="991" height="695" alt="image" src="https://github.com/user-attachments/assets/a201d72a-cced-4e72-b177-da5a2385b20b" />
 
-<img width="1194" height="791" alt="image" src="https://github.com/user-attachments/assets/7d6029d4-b859-416c-a8bd-81636a4c3d3d" />
+<img width="991" height="695" alt="image" src="https://github.com/user-attachments/assets/9281f533-6de6-48df-87a2-2c37fba625a5" />
 
-<img width="1197" height="798" alt="image" src="https://github.com/user-attachments/assets/b562e391-6289-4bfd-b7e2-b60245ac0682" />
 
-<img width="1172" height="797" alt="image" src="https://github.com/user-attachments/assets/2b412266-f9f4-45f5-a85d-e0e51fd99a44" />
+<img width="1194" height="791" alt="image" src="https://github.com/user-attachments/assets/422790cf-eec7-4ca2-91ee-c3cb763807b5" />
 
-<img width="1168" height="785" alt="image" src="https://github.com/user-attachments/assets/946ca23a-e763-4a9e-b337-3f193ef326f7" />
 
-<img width="1204" height="750" alt="image" src="https://github.com/user-attachments/assets/3df4d96e-d619-42a8-a31d-853feeb40889" />
+<img width="1197" height="798" alt="image" src="https://github.com/user-attachments/assets/01902bd4-e244-463b-964f-3b8d7ed8a225" />
+
+
+<img width="1172" height="797" alt="image" src="https://github.com/user-attachments/assets/3a1a2463-f37c-43be-96cc-9dd5c039f75b" />
+
+
+<img width="1168" height="785" alt="image" src="https://github.com/user-attachments/assets/cb1d27f5-8af4-4d9a-9838-52c41021d566" />
+
+
+<img width="1204" height="750" alt="image" src="https://github.com/user-attachments/assets/eb521f1e-62ba-4764-b25e-38628344b99c" />
+
 
 ---
 
