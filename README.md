@@ -113,7 +113,7 @@ Views        INT
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/TriApex.git
+git clone https://github.com/raja-abdul-sami/nftmarketplace.git
 ```
 
 2. Open the solution in **Visual Studio**
